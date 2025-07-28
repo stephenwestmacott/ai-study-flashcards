@@ -18,7 +18,7 @@ const flashcardSchema = z.object({
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { topic: string, difficulty: string } }
+  { params }: { params: Promise<{ topic: string, difficulty: string }> }
 ) {
   const { topic, difficulty } = await params;
 
