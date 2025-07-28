@@ -21,7 +21,7 @@ import {
   CircularProgress,
   Alert,
 } from "@mui/material";
-import { School, Psychology, Lightbulb } from "@mui/icons-material";
+import { School, Lightbulb } from "@mui/icons-material";
 import { Flashcard } from "@/app/lib/types";
 
 const topics = [
