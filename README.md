@@ -1,6 +1,6 @@
 # AI Study Flashcards
 
-**🌐 Live Demo:** [Try the App](https://ai-study-flashcards-jeta.vercel.app/)
+**🌐 Live Demo:** [Try the App](https://ai-study-flashcards.vercel.app/)
 
 An intelligent flashcard generator designed to help students and professionals study industrial instrumentation and control systems. The app uses AI to create personalized multiple-choice questions based on selected topics and difficulty levels.
 
